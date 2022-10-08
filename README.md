@@ -4,9 +4,8 @@
  
  Edited By Or4nG.M4n
  
- PHP 7.3-8.1 disable_functions bypass PoC (*nix only)
+ PHP 7.3-8.1 disable_functions bypass (*nix only)
 
  Bug: https://bugs.php.net/bug.php?id=81705
  
- This exploit should work on all PHP 7.3-8.1 versions
- released as of 2022-01-07
+ This exploit should work on all PHP 7.3-8.1 versions released as of 2022-01-07
